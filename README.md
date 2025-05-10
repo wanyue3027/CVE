@@ -20,8 +20,6 @@ When the value of $prescription parameter is obtained in prescribe.php. , it wil
 
 ![Image](https://github.com/user-attachments/assets/8f5cb045-2df7-4ae1-9490-f593c8a29bac)
 
-![image-20250511003540676](sql94(未交).assets/image-20250511003540676.png)
-
 ## POC
 
 ```
